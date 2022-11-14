@@ -1,0 +1,90 @@
+body{
+    display: none;
+}
+
+@media(min-width:1024px){
+    body{
+        display: inline-block;
+    }
+}
+.hichan{
+    padding: 0 40px;
+    box-sizing: border-box;
+    background-color: black;
+ 
+}
+h2{
+    font-size: 18px;
+}
+.heechan{
+    border: 1px solid red;
+    box-sizing: border-box;
+    float: left;
+    background-color: black;
+}
+.hichan{
+    box-sizing: border-box;
+    width: 50%;
+    float: left;
+    background-color: black;
+    height: 950px;
+}
+
+.hichan_title{
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    border-style: solid;
+    border-color: black black white black;
+    border-bottom-width: 0.5px;
+}
+.hichan_text{
+    color: white;
+    font-size: 13px;
+    line-height: 170%;
+}
+.hichan_text_main{
+    color: white;
+    font-size: 13px;
+    line-height: 200%;
+}
+
+.hichan_work1{
+    box-sizing: border-box;
+    width: 50%;
+    float: left;
+    background-color: white;
+    box-sizing: border-box;
+    padding: 0 0 20px 0;
+    border: 1px solid black;
+}
+
+.hichan_work2{
+    box-sizing: border-box;
+    width: 50%;
+    float: left;
+    background-color: white;
+    box-sizing: border-box;
+    padding: 0 0 20px 0;
+    border: 1px solid black;
+}
+.바로가기{
+    font-size: 12px;
+}
+
+.hichan_work_margin{
+    margin: 0px 20px;
+}
+
+
+.hichan_work_text{
+    font-size: 13px;
+    line-height: 170%;
+}
+
+.Seongjin{
+    box-sizing: border-box;
+    width: 50%;
+    display: inline-block;
+    float: left;
+}
